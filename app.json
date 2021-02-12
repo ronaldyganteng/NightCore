@@ -1,7 +1,7 @@
 {
   "name": "Night UserBot",
   "description": "[Night] A modular Telegram userbot running on Python 3.8",
-  "logo",
+  "logo"
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/IrhamFadzillah/NightCore",
   "website":
-  "stack": "container",
+  "stack" "container",
   "env": {
     "ALIVE_NAME": {
       "description": "Name to show in .alive message",
